@@ -1,5 +1,5 @@
 package fudamentos;
-
+//Neste exercico vamos aprender a calcular a area do triangulo, e as variaveis foi nomeadas em ingles, por questão de padrao.
 
 import java.util.Scanner;
 
